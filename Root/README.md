@@ -17,17 +17,14 @@ I created this project to bridge the gap between raw data engineering and execut
 * **Qualifying Invoices:** 19,960
 * *What's inside:* High-level performance tracking, monthly sales trends, hourly distribution, and top-performing countries/products.
 
-![Executive Overview](assets/page1_executive_overview.png)
+---<img width="1387" height="846" alt="page1_executive_overview" src="https://github.com/user-attachments/assets/83b4afe8-c63f-4f3b-a0df-8002cd01234c" />
 
----
 
 ### Page 2: Operational Deep Dive
 * **Net Quantity Across Rows:** 5.16M
 * **Total Distinct Invoices:** 25,900
 * *What's inside:* Day-of-week sales patterns (taking into account warehouse Saturday closures!), product quantity analysis, and order volume trends.
-
-![Operational Deep Dive](assets/page2_operational_deep_dive.png)
-
+<img width="1387" height="841" alt="page2_operational_deep_dive" src="https://github.com/user-attachments/assets/03ddb928-abb8-470b-8bc4-56f5003e896a" />
 ---
 
 ### Page 3: Cancellations & Risk Analysis
@@ -35,7 +32,8 @@ I created this project to bridge the gap between raw data engineering and execut
 * **Gross-to-Net Sales Difference:** £916.1K
 * *What's inside:* Hourly cancellation peaks, country-level risk distribution, and tracking financial gaps.
 
-![Cancellations & Risk](assets/page3_cancellations_risk.png)
+<img width="1386" height="847" alt="page3_cancellations_risk" src="https://github.com/user-attachments/assets/1ddded2b-e38c-4cb3-bfbf-c7d48b9d6b5e" />
+
 
 ---
 
@@ -43,7 +41,7 @@ I created this project to bridge the gap between raw data engineering and execut
 * **Identified Customers:** 4.4K customers driving 83.5% (£8.89M) of total positive sales.
 * *What's inside:* Pinpointing top 10 customers, scatter-plotting customer spending versus purchase frequency, and comparing registered users against guest checkouts.
 
-![Customer Insights](assets/page4_customer_insights.png)
+<img width="1387" height="840" alt="page4_customer_insights" src="https://github.com/user-attachments/assets/0c7dc7e9-3d3e-41dc-adbd-9b144e40d0dc" />
 
 ---
 
